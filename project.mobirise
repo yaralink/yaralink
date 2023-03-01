@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-03-01_2343",
-    "currentPage": "index.html",
+    "name": "Yaralink Studio",
+    "currentPage": "main.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -34,14 +34,29 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.8.0",
     "siteFonts": [],
+    "chatbutton": {},
+    "imageResize": true,
+    "usedWebp": true,
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "favicon": false,
+    "mbrsiteDomain": "aw6ftfftin",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 10,
     "versionPublish": "5.8.0"
   },
   "pages": {
-    "index.html": {
+    "main.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Yaralink",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
