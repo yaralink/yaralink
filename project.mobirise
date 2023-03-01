@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Yaralink Studio",
-    "currentPage": "main.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,7 +53,7 @@
     "versionPublish": "5.8.0"
   },
   "pages": {
-    "main.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Yaralink",
