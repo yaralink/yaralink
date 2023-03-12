@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Yaralink",
+    "name": "Yaralink Development",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -66,11 +66,11 @@
     "lazyLoad": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "favicon": false,
-    "mbrsiteDomain": "muodu4cfs6",
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-yaralink-fav-128x128_1.png",
+    "mbrsiteDomain": "djz416jp1a",
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://yaralink.com",
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
@@ -90,7 +90,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -1775,7 +1775,7 @@
         "html_before": "",
         "order": "1",
         "socialSharingUrl": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -5271,7 +5271,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": "2",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -8742,7 +8742,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": "3",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -12285,7 +12285,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": "4",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -14335,7 +14335,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": "5",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -15726,7 +15726,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": "6",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -16875,7 +16875,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": "9",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -17934,7 +17934,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": "8",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
@@ -19086,7 +19086,7 @@
         "footer_custom": "",
         "html_before": "",
         "order": "7",
-        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink-1-256x96.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/logo_yaralink_social-500x500.png"
       },
       "components": [
         {
