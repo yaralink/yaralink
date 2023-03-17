@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Yaralink Dev.",
-    "currentPage": "index.html",
+    "currentPage": "sites_type.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -79,7 +79,11 @@
     "screenshot": "screenshot.png",
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "publishType": "local",
+    "gitHubName": "yaralink",
+    "gitHubPath": "yaralink",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
