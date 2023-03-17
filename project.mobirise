@@ -79,7 +79,11 @@
     "screenshot": "screenshot.png",
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "publishType": "local",
+    "gitHubName": "yaralink",
+    "gitHubPath": "yaralink",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
