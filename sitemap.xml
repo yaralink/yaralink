@@ -21,12 +21,12 @@
 		<loc>https://yaralink.com/get_site.html</loc>
 	</url>
 	<url>
-		<loc>https://yaralink.com/faq.html</loc>
-	</url>
-	<url>
 		<loc>https://yaralink.com/customer_support.html</loc>
 	</url>
 	<url>
 		<loc>https://yaralink.com/sites_type.html</loc>
+	</url>
+	<url>
+		<loc>https://yaralink.com/faq.html</loc>
 	</url>
 </urlset>
