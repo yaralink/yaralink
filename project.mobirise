@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "yaralink dev.",
+    "name": "Yaralink Dev.",
     "currentPage": "yaralink_portfolio.html",
     "theme": {
       "name": "mobirise5",
@@ -67,10 +67,10 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "favicon": "@PROJECT_PATH@/assets/images/fav-98x98-1.webp",
-    "mbrsiteDomain": "wsavaggyyd",
+    "mbrsiteDomain": "ejokvmrktc",
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://yaralink.com",
+    "siteUrl": "https://yaralink.com/sitemap.xml",
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
