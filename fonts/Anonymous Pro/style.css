@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Anonymous Pro';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/app/Documents/yaralink/yaralink/fonts/Anonymous Pro/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Anonymous Pro';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/app/Documents/yaralink/yaralink/fonts/Anonymous Pro/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Anonymous Pro';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/app/Documents/yaralink/yaralink/fonts/Anonymous Pro/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Anonymous Pro';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/app/Documents/yaralink/yaralink/fonts/Anonymous Pro/700italic.ttf') format('truetype');
+}
