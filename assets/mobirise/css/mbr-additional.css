@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Play', sans-serif;
   font-size: 5.5rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 6.875rem;
 }
 .display-2 {
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Play', sans-serif;
   font-size: 4rem;
   line-height: 1.1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 5rem;
 }
 .display-4 {
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Play', sans-serif;
   font-size: 1.5rem;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.875rem;
 }
 .display-5 {
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Play', sans-serif;
   font-size: 2.5rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 3.125rem;
 }
 .display-7 {
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Play', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -586,7 +586,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Play', sans-serif;
   font-size: 1.5rem;
   line-height: 1.5;
   font-weight: 400;
@@ -600,7 +600,7 @@ a:hover {
   border-color: #207cc2 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Anonymous Pro', monospace;
+  font-family: 'Play', sans-serif;
   font-size: 1.5rem;
   line-height: 1.5;
   font-weight: 400;
@@ -1291,7 +1291,7 @@ a {
 }
 .cid-txF534yBri {
   padding-top: 10rem;
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
   background-color: #1a2026;
 }
 .cid-txF534yBri .mbr-fallback-image.disabled {
@@ -1338,7 +1338,7 @@ a {
 }
 .cid-txF5FInzWW {
   padding-top: 1rem;
-  padding-bottom: 5rem;
+  padding-bottom: 7rem;
   background-color: #1a2026;
 }
 .cid-txF5FInzWW .mbr-fallback-image.disabled {
@@ -1397,7 +1397,7 @@ a {
 }
 .cid-txIZNkVJpY {
   padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-bottom: 7rem;
   background-color: #1a2026;
 }
 .cid-txIZNkVJpY .mbr-fallback-image.disabled {
@@ -1456,7 +1456,7 @@ a {
 }
 .cid-txJh2oDQi2 {
   padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-bottom: 7rem;
   background-color: #1a2026;
 }
 .cid-txJh2oDQi2 .mbr-fallback-image.disabled {
@@ -1515,7 +1515,7 @@ a {
 }
 .cid-txJxaR1Rcx {
   padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-bottom: 7rem;
   background-color: #1a2026;
 }
 .cid-txJxaR1Rcx .mbr-fallback-image.disabled {
@@ -1608,7 +1608,7 @@ a {
 }
 .cid-txPNX80Ycw {
   padding-top: 135px;
-  padding-bottom: 15px;
+  padding-bottom: 45px;
   background-color: #1a2026;
 }
 .cid-txPNX80Ycw .link-wrap {
